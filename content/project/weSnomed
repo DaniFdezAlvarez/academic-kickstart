@@ -12,7 +12,7 @@ summary = "Tele-medicine app based in SNOMED vocabulary "
 tags = ["Professional", "Personal"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = "http://labra.github.io/shaclex/"
+external_link = ""
 
 # Does the project detail page use math formatting?
 math = false
