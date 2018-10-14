@@ -9,7 +9,7 @@ title = "sheXer"
 summary = "Inferring latent schemata in RDF graphs with ShEx"
 
 # Tags: can be used for filtering projects.
-tags = ["Reseacrh"]
+tags = ["Research"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = "https://github.com/DaniFdezAlvarez/dbpedia-shexer"
