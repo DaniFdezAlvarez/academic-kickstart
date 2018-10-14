@@ -2,7 +2,7 @@
 # About/Biography widget.
 widget = "about"
 active = true
-date = 2016-04-20T00:00:00
+date = 2018-10-14T00:00:00
 
 # Order that this section will appear in.
 weight = 5
@@ -10,26 +10,26 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Semantic Web",
+    "Linked Open Data",
+    "Record lnkage"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
+  course = "PhD in Computer Science"
+  institution = "University of Oviedo"
+  year = Studying
+
+[[education.courses]]
+  course = "Master in Web Engineering"
+  institution = "University of Oviedo"
+  year = 2015
+
+[[education.courses]]
+  course = "Bachelor of Computer Science"
+  institution = "University of Oviedo"
   year = 2012
-
-[[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
-
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
  
 +++
 
