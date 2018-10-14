@@ -35,6 +35,6 @@ weight = 5
 
 # Biography
 
-Daniel Fernández-Álvarez is a PhD student of Computer Science at the University of Oviedo. His research interests include everything related to Semantic Web technologies and Linked Open Data, as well as record linkage, data analysis and data normalization. He is linked to WESO Reseacrh Group since 2014.
+[BUILDING SITE!] Daniel Fernández-Álvarez is a PhD student of Computer Science at the University of Oviedo. His research interests include everything related to Semantic Web technologies and Linked Open Data, as well as record linkage, data analysis and data normalization. He is linked to WESO Reseacrh Group since 2014.
 
 Daniel has participated in several insternational and national projects related to Semantic Web as a technician or Researcher. He is also working as Associate teacher at the University Of Oviedo.
