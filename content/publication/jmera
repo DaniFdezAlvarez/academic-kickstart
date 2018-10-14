@@ -18,7 +18,7 @@ url_project = ""
 url_slides = ""
 url_video = ""
 
-tags = ["XML Schema", "ShEx", "RDF", "Validation", "XML", "JCR"]
+tags = []
 
 [[url_custom]]
 name = "journal"
