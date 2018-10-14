@@ -19,7 +19,7 @@ weight = 5
 [[education.courses]]
   course = "PhD in Computer Science"
   institution = "University of Oviedo"
-  year = Studying
+  year = "Studying"
 
 [[education.courses]]
   course = "Master in Web Engineering"
