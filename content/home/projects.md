@@ -4,7 +4,7 @@ widget = "projects"
 active = true
 date = 2016-04-20T00:00:00
 
-title = "Projects"
+title = "Selection of projects"
 subtitle = ""
 
 # Order that this section will appear in.
@@ -34,8 +34,8 @@ filter_default = 0
    tag = "*"
 
  [[filter]]
-   name = "Personal"
-   tag = "Personal"
+   name = "Research"
+   tag = "Research"
 
  [[filter]]
    name = "Professional"
