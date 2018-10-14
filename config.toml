@@ -59,7 +59,7 @@ enableGitInfo = false
   organizations = [ { name = "University of Oviedo", url = "www.uniovi.es" }, { name = "WESO Research Group", url = "www.weso.es" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "dani_profile.png"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
   # Details for the Contact Widget
   email = "danifdezalvarez@gmail.com"
