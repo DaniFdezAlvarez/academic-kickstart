@@ -6,7 +6,7 @@ date = "2015-06-31"
 title = "WebIndex"
 
 # Project summary to display on homepage.
-summary = "Designed and produced by the World Wide Web Foundation, the Web Index is the world’s first measure of the World Wide Web’s contribution to social, economic and political progress in countries across the world. WESO has contributed to the project developing the portal and managing linked data for 2014 and older editions."
+summary = "Designed and produced by the World Wide Web Foundation, the Web Index is the world's first measure of the World Wide Web’s contribution to social, economic and political progress in countries across the world. WESO has contributed to the project developing the portal and managing linked data for 2014 and older editions."
 
 # Tags: can be used for filtering projects.
 tags = ["SHACL", "ShEx", "RDF","Scala"]
