@@ -9,10 +9,10 @@ title = "WebIndex"
 summary = "Designed and produced by the World Wide Web Foundation, the Web Index is the world's first measure of the World Wide Web’s contribution to social, economic and political progress in countries across the world. WESO has contributed to the project developing the portal and managing linked data for 2014 and older editions."
 
 # Tags: can be used for filtering projects.
-tags = ["SHACL", "ShEx", "RDF","Scala"]
+tags = ["Professional"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = "http://labra.github.io/shaclex/"
+external_link = "https://thewebindex.org/"
 
 # Does the project detail page use math formatting?
 math = false
