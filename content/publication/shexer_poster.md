@@ -1,13 +1,6 @@
 +++
 
-abstract = "In order to perform any operation in an RDF graph, it is recommendable to know the expected topology of the targeted information.
-Some technologies and syntaxes have been developed in the last years to describe the expected shapes in an RDF graph, such as ShEx and SHACL.
-In general, a domain expert can use these syntaxes to define shapes in a graph, with two main purposes: data validation and documentation.
-However, there are some scenarios in which the schema cannot be predicted a priori, but it emerges at the same time that the graph is filled with new information.
-In those cases, the shapes are latent in the current content.
-We have developed a prototype which is able to infer shapes of classes in a knowledge graph and used it with classes of DBpedia ontology.
-We serialize our results using ShEx."
-
+abstract = "In order to perform any operation in an RDF graph, it is recommendable to know the expected topology of the targeted information. Some technologies and syntaxes have been developed in the last years to describe the expected shapes in an RDF graph, such as ShEx and SHACL. In general, a domain expert can use these syntaxes to define shapes in a graph, with two main purposes: data validation and documentation. However, there are some scenarios in which the schema cannot be predicted a priori, but it emerges at the same time that the graph is filled with new information. In those cases, the shapes are latent in the current content. We have developed a prototype which is able to infer shapes of classes in a knowledge graph and used it with classes of DBpedia ontology. We serialize our results using ShEx."
 authors = ["Daniel Fernández-Álvarez", "Herminio García-González", "Johannes Frey", "Sebastian Hellmann", "Jose Emilio Labra Gayo"]
 date = "2018"
 image_preview = ""
